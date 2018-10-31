@@ -1,0 +1,1 @@
+{"alone": -2, "death": -2, "error": -2, "fear": -2, "war": -2, "battle": -1, "forget": -1, "no": -1, "stop": -1, "growing": 1, "yes": 1, "smile": 2, "top": 2, "true": 2}
